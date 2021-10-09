@@ -57522,29 +57522,29 @@ E(a,b){var s=this,r=null,q=H.a([s.c,T.cW(r,8,r),T.ie(L.a6(s.d,r,C.bq,r,s.x,r,r),
 q.push(L.a6(s.e,r,r,r,s.y,C.bp,r))
 return T.dd(G.adY(M.b0(r,M.b0(r,new T.aU(C.AG,T.bx(q,C.B,C.T,C.r),r),r,r,r,r,r,r,r),C.a2,new S.a7(0,300,200,1/0),r,r,r,C.a9,r),!1),r,r)}}
 V.Dg.prototype={
-E(a,b){var s,r,q,p,o,n,m,l,k=null,j=$.fc(),i=A.b2(k,k,j,k,k,k,k,k,k,k,k,16,k,k,k,k,!0,k,k,k,k,k,k,k,k),h=A.b2(k,k,C.fH,k,k,k,k,k,k,k,k,16,k,k,k,k,!0,k,k,k,k,k,k,k,k),g=new V.UV(b),f=C.S.i(0,900)
-f.toString
+E(a,b){var s,r,q,p,o,n,m,l,k=null,j="Comfortaa",i=$.fc(),h=A.b2(k,k,i,k,k,k,k,k,k,k,k,16,k,k,k,k,!0,k,k,k,k,k,k,k,k),g=A.b2(k,k,C.fH,k,k,k,k,k,k,k,k,16,k,k,k,k,!0,k,k,k,k,k,k,k,k),f=new V.UV(b),e=C.S.i(0,900)
+e.toString
 s=F.Yg()
 r=C.S.i(0,900)
 r.toString
 q=C.S.i(0,700)
 q.toString
 p=t.p
-r=T.bx(H.a([M.b0(k,new T.aU(C.ao,T.bx(H.a([new T.Bt(q,new T.OD(C.jh),k),T.ie(new T.aU(C.AD,L.a6("dotup IT solutions",k,k,k,A.b2(k,k,j,k,k,k,k,k,"Comfortaa",k,k,22,k,C.at,k,k,!0,k,k,k,k,k,k,k,k),k,k),k),C.am),V.acW(A.b2(k,k,$.d_(),k,k,k,k,k,k,k,k,14,k,C.at,k,k,!0,k,k,k,k,k,k,k,k))],p),C.B,C.aY,C.r),k),k,k,new S.dc(r,k,k,k,k,k,C.Z),k,new V.at(8,8,8,8),k,k),new T.C9(0.25,new Z.eW(16,0,k,k,P.V(C.c.ap(76.5),130,141,170),k),k)],p),C.B,C.T,C.r)
-q=Q.bm(k,!0,k,L.bJ(C.Bl,j,k),k,k,new V.UP(g),k,L.a6("Start",k,k,k,i,k,k),k)
-o=j.a
+r=T.bx(H.a([M.b0(k,new T.aU(C.ao,T.bx(H.a([new T.Bt(q,new T.OD(C.jh),k),T.ie(new T.aU(C.AD,L.a6("dotup IT solutions",k,k,k,A.b2(k,k,i,k,k,k,k,k,j,k,k,22,k,C.at,k,k,!0,k,k,k,k,k,k,k,k),k,k),k),C.am),V.acW(A.b2(k,k,$.d_(),k,k,k,k,k,j,k,k,14,k,C.at,k,k,!0,k,k,k,k,k,k,k,k))],p),C.B,C.aY,C.r),k),k,k,new S.dc(r,k,k,k,k,k,C.Z),k,new V.at(8,8,8,8),k,k),new T.C9(0.25,new Z.eW(16,0,k,k,P.V(C.c.ap(76.5),130,141,170),k),k)],p),C.B,C.T,C.r)
+q=Q.bm(k,!0,k,L.bJ(C.Bl,i,k),k,k,new V.UP(f),k,L.a6("Start",k,k,k,h,k,k),k)
+o=i.a
 n=o>>>16&255
 m=o>>>8&255
 o&=255
-s=T.rO(B.a9m(H.a([r,q,new Z.eW(3,k,60,k,P.V(153,n,m,o),k),Q.bm(k,!0,k,L.bJ(C.Bs,j,k),k,k,new V.UQ(g),k,L.a6("Areas",k,k,k,i,k,k),k),new Z.eW(3,k,60,k,P.V(153,n,m,o),k),Q.bm(k,!0,k,L.bJ(C.Bf,j,k),k,k,new V.UR(g),k,L.a6("Services",k,k,k,i,k,k),k),new Z.eW(3,k,60,k,P.V(153,n,m,o),k),Q.bm(k,!1,k,L.bJ(C.Be,C.fH,k),k,k,k,k,L.a6("Projects",k,k,k,h,k,k),k),new Z.eW(3,k,60,k,P.V(153,n,m,o),k),Q.bm(k,!0,k,L.bJ(C.jP,j,k),k,k,new V.US(g),k,L.a6("About",k,k,k,i,k,k),k),new Z.eW(3,k,60,k,P.V(153,n,m,o),k),Q.bm(k,!0,k,L.bJ(C.Bn,j,k),k,k,new V.UT(b),k,L.a6("Info",k,k,k,i,k,k),k),new Z.eW(3,k,k,k,P.V(153,n,m,o),k),Q.bm(k,!0,k,L.bJ(C.Bh,j,k),k,k,new V.UU(b),k,L.a6("Men\xfc schlie\xdfen",k,k,k,i,k,k),k)],p),s))
+s=T.rO(B.a9m(H.a([r,q,new Z.eW(3,k,60,k,P.V(153,n,m,o),k),Q.bm(k,!0,k,L.bJ(C.Bs,i,k),k,k,new V.UQ(f),k,L.a6("Areas",k,k,k,h,k,k),k),new Z.eW(3,k,60,k,P.V(153,n,m,o),k),Q.bm(k,!0,k,L.bJ(C.Bf,i,k),k,k,new V.UR(f),k,L.a6("Services",k,k,k,h,k,k),k),new Z.eW(3,k,60,k,P.V(153,n,m,o),k),Q.bm(k,!1,k,L.bJ(C.Be,C.fH,k),k,k,k,k,L.a6("Projects",k,k,k,g,k,k),k),new Z.eW(3,k,60,k,P.V(153,n,m,o),k),Q.bm(k,!0,k,L.bJ(C.jP,i,k),k,k,new V.US(f),k,L.a6("About",k,k,k,h,k,k),k),new Z.eW(3,k,60,k,P.V(153,n,m,o),k),Q.bm(k,!0,k,L.bJ(C.Bn,i,k),k,k,new V.UT(b),k,L.a6("Info",k,k,k,h,k,k),k),new Z.eW(3,k,k,k,P.V(153,n,m,o),k),Q.bm(k,!0,k,L.bJ(C.Bh,i,k),k,k,new V.UU(b),k,L.a6("Men\xfc schlie\xdfen",k,k,k,h,k,k),k)],p),s))
 o=new V.Cl(k)
-g=A.b2(k,k,$.d_(),k,k,k,k,k,k,k,k,k,k,C.at,k,k,!0,k,4,k,k,k,k,k,k)
-o.c=g
-l=new Z.Bv(10,M.b0(k,T.bx(H.a([s,T.ie(new T.aU(C.ao,o,k),C.am)],p),C.B,C.bO,C.cn),f,k,k,k,k,k,k),k)
-if(this.c){g=b.S(t.w).f
-f=C.S.i(0,900)
-f.toString
-return M.b0(k,T.f3(H.a([C.jI,T.rO(l),T.bx(H.a([new T.aU(C.fS,T.ie(M.b0(k,new K.ve(k),k,k,k,k,k,k,60),C.am),k)],p),C.B,C.bO,C.r)],p),C.dO,C.T,C.r),f,k,k,k,k,k,g.a.a)}else return l}}
+f=A.b2(k,k,$.d_(),k,k,k,k,k,k,k,k,k,k,C.at,k,k,!0,k,4,k,k,k,k,k,k)
+o.c=f
+l=new Z.Bv(10,M.b0(k,T.bx(H.a([s,T.ie(new T.aU(C.ao,o,k),C.am)],p),C.B,C.bO,C.cn),e,k,k,k,k,k,k),k)
+if(this.c){f=b.S(t.w).f
+e=C.S.i(0,900)
+e.toString
+return M.b0(k,T.f3(H.a([C.jI,T.rO(l),T.bx(H.a([new T.aU(C.fS,T.ie(M.b0(k,new K.ve(k),k,k,k,k,k,k,60),C.am),k)],p),C.B,C.bO,C.r)],p),C.dO,C.T,C.r),e,k,k,k,k,k,f.a.a)}else return l}}
 V.UV.prototype={
 JV(a){var s=0,r=P.a1(t.H),q=this,p
 var $async$$1=P.Y(function(b,c){if(b===1)return P.Z(c,r)
